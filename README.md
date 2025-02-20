@@ -1,7 +1,7 @@
 # Python-Selenium
 # Acun Medya Akademi - 2. Hafta Ödevleri
 
-Bu repo, Acun Medya Akademi'nin 2. hafta ödevleri kapsamında yazılan Python dosyalarını içermektedir.
+Bu repo, Acun Medya Akademi'nin "Yapay Zeka İçin Python" eğitiminin 2. hafta ödevleri kapsamında yazılan Python dosyalarını içermektedir.
 
 ## İçerik
 
