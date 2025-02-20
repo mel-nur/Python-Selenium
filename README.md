@@ -41,5 +41,5 @@ Projeyi çalıştırmak için:
 
 3.Dosyalardan herhangi birini çalıştırmak için terminal veya komut satırında:
 
-  ```sh
-  python Day_2.py
+   ```sh
+    python Day_2.py
